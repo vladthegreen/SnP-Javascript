@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery.parseXML demo</title>
+  <script src="https://code.jquery.com/jquery-1.10.2.js">
+  </script>
+  
+  <style type="text/css">
+  .warning {color:black; border-radius:6px;border: 1px solid #ccc;background-color: #ffffcc; padding: 1px 5px 1px 5px;}
+  
+  .error {color:red; border-radius:6px;border: 1px solid #ccc;background-color: #ffffcc; padding: 1px 5px 1px 5px;}
+  
+  .passed {color:black; border-radius:6px;border: 1px solid #ccc;background-color: #09e60d; padding: 1px 5px 1px 5px;}
+  
+  .reportLine {margin-left:20px}
+  
+  .expected-xml {padding-left:30px}
+  
+  .issue {margin-bottom:5px;}
+  
+  #pass{float:left; width:400px;border:1px solid black;padding-left:10px;}
+  
+  #alerts{float:left; width:400px;border:1px solid black;padding-left:10px;}
+  
+  #main-container {width:100%; border:1px solid blue;}
+  
+  #data {border:1px solid red;}
+  </style>
+<script language="JavaScript">
+	/*
+	Jquery script to inspect XML. the script checks if the provided XML is Adobe AEM compliant 
+	The script checks:
+		- IF mandatory XML nodex exist
+	
+	VERSION: 1.0.4
+	
+	TODO
+		1) Check how to solve Cross Site reading issue in Jquery:
+			ERROR MESSAGE when loading fiel from external site: "Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at
+				http://musebroadcasting.com/orvisa.xml. (Reason: CORS header 'Access-Control-Allow-Origin' missing)."
+			CHECK: http://enable-cors.org/server.html
+		2) Check if the internal nodes of loops like breadcrumbs, facets, results, menus, etc., exist or not.
+		3) Add caption box to load URL of the XML to analyze 
+	*/
+	
+	function debug(message){
+		console.log("[[DEBUG]] "+message);
+	}
+	
+	
+	debug("Start");
+	
+	//URL to inspect
+	
+	//var urlToInspect = 'orvisa.xml';
+	//var urlToInspect = 'http://musebroadcasting.com/orvisa.xml';	
+	var urlToInspect = 'http://sp10050e85.guided.ss-omtrdc.net/';
+		
+	$(document).ready(function(){
+		$.ajax({            
+    
+			url: urlToInspect,
+			type: "get",
+			crossDomain: 'true',
+            dataType: 'html', //get response in plain text
+            success: function(response) {
+				debug("IN");
+				
+				$('#data').append('<b>File to inspect</b>: '+urlToInspect+'<br/><br/>');
+				
+				var issues = 0;
+				
+				//Reports message of failure: element does not exist
+				function reportFail(caption, message, element, messageType){
+					//Format element
+					//var kk = element.replace(/\>/g,'<>');
+					element = '&lt;'+element+'&gt;';
+					element = element.replace(/\>/g,'&gt;&lt;');
+					$('#alerts').append('<div class="issue"><span class="'+messageType+'"><b>'+caption+'</b></span> '+message+"<br /><span class='expected-xml'> <b>Expected</b>: "+element+"</span></div>");
+				}
+				
+				//Reports message of success: element exists
+				function reportSuccess(message){
+					$('#pass').append('<div style="margin-bottom:5px;"><span class="passed"><b>PASS</b></span> '+message+"</div>");
+				}
+				
+				//Inspects if each element in listOfNodes exists within the XML
+				//If node does not exist it prints out message using "caption"
+				function inspectNodes(caption, listOfNodes,messageType)
+				{				
+					for (var i=0; i < listOfNodes.length; i++)
+					{						
+						var element = listOfNodes[i];
+												
+						node = xml.find(element);
+						if ( !node.length) //Element does not exist
+						{							
+							reportFail(caption, element+" node does not exist in XML",element, messageType);
+							issues++;
+						}
+						else if (!node.text().trim()) //Element is empty
+						{
+							reportFail(caption, element+" node is empty", element,messageType);
+							issues++;
+						}
+						else //OK
+						{
+							reportSuccess(element);
+							//debug("VALUES "+element+' value: "'+node.text().trim()+'"');
+						}						
+					}				
+				}
+
+                //transform it to jQuery XML DOM
+                var xmlDoc1 = jQuery.parseXML(response);
+                var xml = $(xmlDoc1);
+				
+				
+				//List of nodes to check
+				var mandatoryNodes = ["query","breadcrumbs","pagination","facets","results","menus"];
+				var optionalNodes =["custom-fields","menus","banners","redirect","suggestions"];
+				var queryNodes = ["query>user-query","query>lower-results","query>upper-results","query>total-results"];
+				var paginationNodes = [ "pagination>total-pages"];
+				var resultsNodes = [ "results>result-set>name","results>result-set>result"];
+				var facetsNodes = ["facets>facet>facet-title","facets>facet>behavior","facets>facet>selected"];
+				var menusNodes = ["menus>menu>name","menus>menu>item","menus>menu>item>label","menus>menu>item>value","menus>menu>item>link"];
+				var breadcrumbsNodes = ["breadcrumbs>breadcrumb","breadcrumbs>breadcrumb>name","breadcrumbs>breadcrumb>breadcrumb-item","breadcrumbs>breadcrumb>breadcrumb-item>link","breadcrumbs>breadcrumb>breadcrumb-item>value","breadcrumbs>breadcrumb>breadcrumb-item>label"];
+				
+				//optional:
+				//jQuery.each(substr, function(index, item) {
+				//	// do something with `item` (or `this` is also `item` if you like)
+				//});
+				
+				//FIRST pass: check main nodes that must exist.
+				inspectNodes("ERROR",mandatoryNodes,"error");
+				inspectNodes("WARNING",optionalNodes,"warning");
+				inspectNodes("ERROR",queryNodes,"error");
+				inspectNodes("ERROR",paginationNodes,"error");
+				inspectNodes("ERROR",resultsNodes,"error");
+				inspectNodes("ERROR",facetsNodes,"error");
+				inspectNodes("ERROR",menusNodes,"error");
+				inspectNodes("ERROR",breadcrumbsNodes,"error");
+
+				/*
+                //do some search and so on
+                var $divtag = xml.find('upper-results');
+                
+
+                //consume it
+                alert($divtag);
+                $('#main-content').html(divtxt); */
+				
+				var title = xml.find( "upper-results" );
+				var query = xml.find("query");
+				var user_query = xml.find("query>user-query");
+				
+				if (!user_query.length)
+				{
+					//$('#alerts').append("<b>[[ALERT]]</b> user-query does not exist!<br />")
+					reportAlert("user-query does not exist!")
+				}
+				else
+				{
+					debug("user-query: "+user_query.text());
+				}
+				
+				// TESTS
+				var textA = xml.find("pagination>page[position='first']");
+				debug('pagination > first '+textA.text() );
+				
+				var textB = xml.find("pagination>page[position='last']");
+				debug('pagination > last '+textB.text() );
+				
+				
+				//debug("Title:"+title.text());
+				//debug("Query block: "+ query.text());
+				
+				
+				//$( "#someElement" ).append( title.text() );
+ 
+				// Change the title to "XML Title"
+				//title.text( "blah-blah" );
+				 
+				// Append "XML Title" to #anotherElement
+				//$( "#anotherElement" ).append( title.text() );
+				
+				
+				//REPORT
+				$("#data").append("<span class='reportLine'>Issues: "+issues+'</span>');
+				
+
+            },
+			error:function(xhr, status) {
+				console.log("[[ERROR]] "+status);
+				
+			}
+        });
+	});
+</script>
+  
+</head>
+<body id="main-content">
+<p id="someElement"></p>
+<p id="anotherElement"></p>
+<div id="main-container" >
+	<div id="data">
+	<button>Show info about passed xml</button><br />
+	</div>
+	<div id="alerts"><b>Issues<b><br/><br /></div>
+	<div id="pass" style="display:none"><b>Pass<b><br/><br /></div>
+	<br style="clear: both;" />
+</div>
+
+
+
+<script> 
+ 
+	$( "button" ).click(function() {
+	  $( "#pass" ).show( "slow" );
+	});
+
+
+</script>
+ 
+
+</body>
+</html>
+  
+  

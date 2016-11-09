@@ -1,0 +1,6326 @@
+<orvis-results>
+<!--  done  -->
+<query>
+<user-query>
+<![CDATA[ red vest ]]>
+</user-query>
+<lower-results>
+<![CDATA[ 1 ]]>
+</lower-results>
+<upper-results>
+<![CDATA[ 16 ]]>
+</upper-results>
+<total-results>
+<![CDATA[ 39 ]]>
+</total-results>
+<version>
+<![CDATA[ AEM-1.1 ]]>
+</version>
+</query>
+<custom-fields>
+<custom-field name="seo-search-keywords">
+<![CDATA[ ]]>
+</custom-field>
+</custom-fields>
+<menus>
+<menu>
+<name>
+<![CDATA[ sort ]]>
+</name>
+<item selected="true">
+<label>
+<![CDATA[ Relevance ]]>
+</label>
+<value>
+<![CDATA[ relevance ]]>
+</value>
+<link>
+<![CDATA[ &nbsp; ]]>
+</link>
+</item>
+</menu>
+<menu>
+<name>
+<![CDATA[ sort ]]>
+</name>
+<item>
+<label>
+<![CDATA[ Title ]]>
+</label>
+<value>
+<![CDATA[ title ]]>
+</value>
+<link>
+<![CDATA[ ?i=1;q=red+vest;sort=title;sp_cs=UTF-8;sp_staged=1 ]]>
+</link>
+</item>
+</menu>
+</menus>
+<banners></banners>
+<breadcrumbs>
+<breadcrumb>
+<name>
+<![CDATA[ default ]]>
+</name>
+<breadcrumb-item>
+<link>
+<![CDATA[ ?i=1;q=red+vest;sp_cs=UTF-8;sp_staged=1 ]]>
+</link>
+<value>
+<![CDATA[ red vest ]]>
+</value>
+<label>
+<![CDATA[ ]]>
+</label>
+</breadcrumb-item>
+</breadcrumb>
+</breadcrumbs>
+<pagination>
+<total-pages>
+<![CDATA[ 3 ]]>
+</total-pages>
+<page position="first">
+<![CDATA[ ]]>
+</page>
+<page position="last">
+<![CDATA[ ?i=1;page=3;q=red+vest;sp_cs=UTF-8;sp_staged=1 ]]>
+</page>
+<page position="next">
+<![CDATA[ ?i=1;page=2;q=red+vest;sp_cs=UTF-8;sp_staged=1 ]]>
+</page>
+<page position="viewall">
+<![CDATA[ ?all=0;i=1;q=red+vest;sp_cs=UTF-8;sp_staged=1 ]]>
+</page>
+<page position="1" selected="true">
+<![CDATA[ ?i=1;q=red+vest;sp_cs=UTF-8;sp_staged=1 ]]>
+</page>
+<page position="2">
+<![CDATA[ ?i=1;page=2;q=red+vest;sp_cs=UTF-8;sp_staged=1 ]]>
+</page>
+<page position="3">
+<![CDATA[ ?i=1;page=3;q=red+vest;sp_cs=UTF-8;sp_staged=1 ]]>
+</page>
+</pagination>
+<facets>
+<facet>
+<facet-title>
+<![CDATA[ AS400 CAT ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ 15 :LADIES CLOTHING ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=15+%3ALADIES+CLOTHING;sp_cs=UTF-8;sp_staged=1;x1=f_as400_cat
+]]>
+</link>
+<count>
+<![CDATA[ 27 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 25 :MENS CLOTHING ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=25+%3AMENS+CLOTHING;sp_cs=UTF-8;sp_staged=1;x1=f_as400_cat
+]]>
+</link>
+<count>
+<![CDATA[ 12 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ AS400 SUBCAT ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ 10 :L/S WOVEN SHIRT ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=10+%3AL~2FS+WOVEN+SHIRT;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 13 :SWEATERS ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=13+%3ASWEATERS;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 23 :TECH OUTERWEAR ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=23+%3ATECH+OUTERWEAR;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 24 :TECH OUTERWEAR ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=24+%3ATECH+OUTERWEAR;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 25 :COATS ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=25+%3ACOATS;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 19 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 33 :BARBOUR ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=33+%3ABARBOUR;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 36 :SWEATSHIRTS ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=36+%3ASWEATSHIRTS;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 39 :FLEECE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=39+%3AFLEECE;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 5 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 43 :VESTS ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=43+%3AVESTS;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 5 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ RUGGED ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=RUGGED;sp_cs=UTF-8;sp_staged=1;x1=f_as400_subcat
+]]>
+</link>
+<count>
+<![CDATA[ 19 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Brand ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ Barbour ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Barbour;sp_cs=UTF-8;sp_staged=1;x1=f_brand
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Orvis ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Orvis;sp_cs=UTF-8;sp_staged=1;x1=f_brand
+]]>
+</link>
+<count>
+<![CDATA[ 38 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Color ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ AUBERGINE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=AUBERGINE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BEET ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BEET;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BLACK ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BLACK;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 12 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BLACK/RED ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BLACK~2FRED;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BLACKBERRY ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BLACKBERRY;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BLUE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BLUE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BLUE MOON ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BLUE+MOON;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BLUE/GRAY ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BLUE~2FGRAY;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BLUE/WHITE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BLUE~2FWHITE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BRICK ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BRICK;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BRIGHT BLUE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BRIGHT+BLUE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BRIGHTLIME ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BRIGHTLIME;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BRITISH GREEN ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BRITISH+GREEN;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BRITISH TAN ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BRITISH+TAN;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BRONZE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BRONZE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BROWN ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BROWN;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ BURNT ORANGE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=BURNT+ORANGE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ CAMEL ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=CAMEL;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ CARDINAL ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=CARDINAL;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ CHARCOAL ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=CHARCOAL;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ CRIMSON ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=CRIMSON;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ DARK GRAY ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=DARK+GRAY;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ DARK KHAKI ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=DARK+KHAKI;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ DARK RED ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=DARK+RED;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ DEEP NAVY ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=DEEP+NAVY;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ DEEP OCEAN ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=DEEP+OCEAN;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ FIELDSTONE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=FIELDSTONE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ FOG ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=FOG;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ HEATHER GRAY ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=HEATHER+GRAY;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ HONEY ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=HONEY;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ KHAKI ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=KHAKI;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ LIGHT GARNET ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=LIGHT+GARNET;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ LODEN ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=LODEN;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ MALBEC ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=MALBEC;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ MARINE BLUE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=MARINE+BLUE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ MIDNIGHT NAVY ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=MIDNIGHT+NAVY;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ NAVY ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=NAVY;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 5 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ NIGHT SKY ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=NIGHT+SKY;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ OATMEAL ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=OATMEAL;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ OLIVE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=OLIVE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ OLIVE GREEN ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=OLIVE+GREEN;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ OREGANO ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=OREGANO;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ PEARL ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=PEARL;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ PEWTER ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=PEWTER;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ RED ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=RED;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 9 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ RED PEPPER ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=RED+PEPPER;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ RED/CHARCOAL ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=RED~2FCHARCOAL;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ ROSEWOOD ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=ROSEWOOD;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ RUST ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=RUST;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ SANGRIA ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=SANGRIA;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ SPICED CORAL ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=SPICED+CORAL;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ TOMATO ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=TOMATO;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ VINEYARD RED ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=VINEYARD+RED;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ WINE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=WINE;sp_cs=UTF-8;sp_staged=1;x1=f_color
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Color family ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ Black ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Black;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 15 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Blue ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Blue;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 14 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Brown ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Brown;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Gray ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Gray;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Green ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Green;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 8 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Metallic ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Metallic;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Non-Color ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Non-Color;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Orange ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Orange;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Purple ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Purple;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Red ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Red;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 36 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Tan ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Tan;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 7 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ White ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=White;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Yellow ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Yellow;sp_cs=UTF-8;sp_staged=1;x1=f_color_family
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Material ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ Cotton/Cotton Blend ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Cotton~2FCotton+Blend;sp_cs=UTF-8;sp_staged=1;x1=f_material
+]]>
+</link>
+<count>
+<![CDATA[ 5 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Fleece &amp; Microfiber ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Fleece+%26+Microfiber;sp_cs=UTF-8;sp_staged=1;x1=f_material
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Synthetic ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Synthetic;sp_cs=UTF-8;sp_staged=1;x1=f_material
+]]>
+</link>
+<count>
+<![CDATA[ 17 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Wool/Wool Blend ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Wool~2FWool+Blend;sp_cs=UTF-8;sp_staged=1;x1=f_material
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Rating ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ 0.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=0.00;sp_cs=UTF-8;sp_staged=1;x1=f_rating
+]]>
+</link>
+<count>
+<![CDATA[ 39 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Rating Range ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ unrated ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=unrated;sp_cs=UTF-8;sp_staged=1;x1=f_ratingrange
+]]>
+</link>
+<count>
+<![CDATA[ 39 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Size ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ 10 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=10;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 12 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=12;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 14 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=14;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 16 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=16;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 4 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=4;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 6 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=6;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 8 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=8;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ LARGE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=LARGE;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 36 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ MEDIUM ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=MEDIUM;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 36 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ SMALL ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=SMALL;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 26 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ X LARGE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=X+LARGE;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 35 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ X SMALL ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=X+SMALL;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 23 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ XX LARGE ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=XX+LARGE;sp_cs=UTF-8;sp_staged=1;x1=f_size
+]]>
+</link>
+<count>
+<![CDATA[ 12 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Type ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ Casual Jackets ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Casual+Jackets;sp_cs=UTF-8;sp_staged=1;x1=f_type
+]]>
+</link>
+<count>
+<![CDATA[ 4 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Coats ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Coats;sp_cs=UTF-8;sp_staged=1;x1=f_type
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Cold weather coats ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Cold+weather+coats;sp_cs=UTF-8;sp_staged=1;x1=f_type
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Dressy ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Dressy;sp_cs=UTF-8;sp_staged=1;x1=f_type
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Jackets ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jackets;sp_cs=UTF-8;sp_staged=1;x1=f_type
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Vest ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Vest;sp_cs=UTF-8;sp_staged=1;x1=f_type
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Availability ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ N ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=N;sp_cs=UTF-8;sp_staged=1;x1=item_avail_status
+]]>
+</link>
+<count>
+<![CDATA[ 30 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ O ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=O;sp_cs=UTF-8;sp_staged=1;x1=item_avail_status
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Y ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Y;sp_cs=UTF-8;sp_staged=1;x1=item_avail_status
+]]>
+</link>
+<count>
+<![CDATA[ 39 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Status ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ F ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=F;sp_cs=UTF-8;sp_staged=1;x1=item_status_code
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ X ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=X;sp_cs=UTF-8;sp_staged=1;x1=item_status_code
+]]>
+</link>
+<count>
+<![CDATA[ 35 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Sale Flag ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ N ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=N;sp_cs=UTF-8;sp_staged=1;x1=pr_item_sale_flag
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Y ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Y;sp_cs=UTF-8;sp_staged=1;x1=pr_item_sale_flag
+]]>
+</link>
+<count>
+<![CDATA[ 36 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Current Price ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ 34.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=34.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 39.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=39.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 44.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=44.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 49.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=49.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 59.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=59.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 4 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 69.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=69.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 74.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=74.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 79.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=79.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 89.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=89.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 94.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=94.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 99.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=99.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 5 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 104.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=104.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 109.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=109.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 119.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=119.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 129.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=129.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 134.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=134.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 139.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=139.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 149.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=149.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 154.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=154.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 169.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=169.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 179.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=179.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 198.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=198.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 199.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=199.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 319.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=319.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 329.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=329.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 499.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=499.00;sp_cs=UTF-8;sp_staged=1;x1=price_item_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ TBD ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ 34.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=34.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 39.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=39.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 44.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=44.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 49.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=49.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 59.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=59.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 4 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 69.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=69.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 74.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=74.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 79.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=79.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 89.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=89.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 94.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=94.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 99.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=99.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 5 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 104.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=104.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 109.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=109.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 119.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=119.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 129.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=129.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 134.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=134.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 139.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=139.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 149.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=149.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 154.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=154.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 169.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=169.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 179.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=179.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 198.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=198.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 199.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=199.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 319.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=319.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 329.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=329.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 499.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=499.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_max_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ TBD ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ 34.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=34.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 39.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=39.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 44.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=44.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 49.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=49.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 59.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=59.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 4 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 69.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=69.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 74.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=74.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 79.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=79.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 89.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=89.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 94.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=94.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 99.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=99.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 5 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 104.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=104.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 109.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=109.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 119.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=119.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 129.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=129.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 134.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=134.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 139.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=139.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 149.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=149.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 154.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=154.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 169.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=169.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 179.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=179.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 198.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=198.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 199.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=199.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 319.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=319.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 329.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=329.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ 499.00 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=499.00;sp_cs=UTF-8;sp_staged=1;x1=price_pf_min_current
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ T1 DIRECTORY ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ Fly Fishing:758 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Fly+Fishing%3A758;sp_cs=UTF-8;sp_staged=1;x1=t1_directory
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Gifts:1686 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Gifts%3A1686;sp_cs=UTF-8;sp_staged=1;x1=t1_directory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Hunting:1089 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Hunting%3A1089;sp_cs=UTF-8;sp_staged=1;x1=t1_directory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Clothing:885 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Clothing%3A885;sp_cs=UTF-8;sp_staged=1;x1=t1_directory
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Organizational Sales:9313 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Organizational+Sales%3A9313;sp_cs=UTF-8;sp_staged=1;x1=t1_directory
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Outdoor Essentials:49853 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Outdoor+Essentials%3A49853;sp_cs=UTF-8;sp_staged=1;x1=t1_directory
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Sale Outlet:1137 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Sale+Outlet%3A1137;sp_cs=UTF-8;sp_staged=1;x1=t1_directory
+]]>
+</link>
+<count>
+<![CDATA[ 34 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Clothing:832 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Clothing%3A832;sp_cs=UTF-8;sp_staged=1;x1=t1_directory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ T2 Group ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ Barbour of England:17760 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Barbour+of+England%3A17760;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Field Collection:53451 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Field+Collection%3A53451;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Fishing Clothing:821 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Fishing+Clothing%3A821;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Fleece:49884 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Fleece%3A49884;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Fly Fishing:1157 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Fly+Fishing%3A1157;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Further Reductions:27835 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Further+Reductions%3A27835;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Get Inspired:50362 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Get+Inspired%3A50362;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Gifts for Him:1673 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Gifts+for+Him%3A1673;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Jackets &amp; Vests:920 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jackets+%26+Vests%3A920;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Layers &amp; Sweaters:22597 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Layers+%26+Sweaters%3A22597;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Apparel:9319 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Apparel%3A9319;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Clothing:11942 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Clothing%3A11942;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 9 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ New for Men:17278 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=New+for+Men%3A17278;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ New to Sale:14848 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=New+to+Sale%3A14848;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 9 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Outdoor Clothing &amp; Accessories:24695 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Outdoor+Clothing+%26+Accessories%3A24695;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Outerwear:49862 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Outerwear%3A49862;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Outerwear:862 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Outerwear%3A862;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ The Orvis Tent Sale:1829 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=The+Orvis+Tent+Sale%3A1829;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Waders &amp; Wading Gear:45361 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Waders+%26+Wading+Gear%3A45361;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Clothing:11943 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Clothing%3A11943;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 25 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Hunting Gear:46481 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Hunting+Gear%3A46481;sp_cs=UTF-8;sp_staged=1;x1=t2_group
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Category ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ Apparel:17279 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Apparel%3A17279;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Best Gift Ideas:29814 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Best+Gift+Ideas%3A29814;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Field Collection:53452 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Field+Collection%3A53452;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Fishing Clothing &amp; Accessories:13348 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Fishing+Clothing+%26+Accessories%3A13348;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Get Inspired:50363 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Get+Inspired%3A50363;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Jackets &amp; Vests:11954 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jackets+%26+Vests%3A11954;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 9 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Jackets &amp; Vests:11982 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jackets+%26+Vests%3A11982;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 25 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Jackets &amp; Vests:25409 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jackets+%26+Vests%3A25409;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Jackets:5355 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jackets%3A5355;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men:14849 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men%3A14849;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Apparel:9585 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Apparel%3A9585;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Outerwear:49863 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Outerwear%3A49863;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Rain Jackets &amp; Windbreakers:47444 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Rain+Jackets+%26+Windbreakers%3A47444;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Sweaters &amp; Insulating Layers:22615 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Sweaters+%26+Insulating+Layers%3A22615;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Sweaters &amp; Sweatshirts:11948 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Sweaters+%26+Sweatshirts%3A11948;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Vests:8328 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Vests%3A8328;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Wading Jackets:19861 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Wading+Jackets%3A19861;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women:14850 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women%3A14850;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 7 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women:27836 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women%3A27836;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women:5726 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women%3A5726;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Fleece:49885 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Fleece%3A49885;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Hunting Gear:46482 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Hunting+Gear%3A46482;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Outerwear:17767 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Outerwear%3A17767;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s:50251 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's%3A50251;sp_cs=UTF-8;sp_staged=1;x1=t3_category
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+</facet>
+<facet>
+<facet-title>
+<![CDATA[ Sub Category ]]>
+</facet-title>
+<behavior>
+<![CDATA[ sticky ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<facet-value>
+<label>
+<![CDATA[ Best Gift Ideas for Men:29820 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Best+Gift+Ideas+for+Men%3A29820;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Field Collection for Men:53453 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Field+Collection+for+Men%3A53453;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Fishing Clothing &amp; Accessories:13349 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Fishing+Clothing+%26+Accessories%3A13349;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Fishing Jackets &amp; Vests:45715 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Fishing+Jackets+%26+Vests%3A45715;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Fishing Shirts:45711 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Fishing+Shirts%3A45711;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Get Inspired:50364 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Get+Inspired%3A50364;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Hunting Sweaters &amp; Layering Clothing:22654 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Hunting+Sweaters+%26+Layering+Clothing%3A22654;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Jackets &amp; Blazers:11966 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jackets+%26+Blazers%3A11966;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 13 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Jackets &amp; Vests:25389 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jackets+%26+Vests%3A25389;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Jackets &amp; Vests:45282 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jackets+%26+Vests%3A45282;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men - New to Sale:14851 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men+-+New+to+Sale%3A14851;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Apparel:9586 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Apparel%3A9586;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Jackets:11955 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Jackets%3A11955;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 9 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Jackets:6373 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Jackets%3A6373;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Outerwear:49864 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Outerwear%3A49864;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Men&#39;s Sweaters &amp; Sweatshirts:11949 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Men's+Sweaters+%26+Sweatshirts%3A11949;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ New Apparel for Men:17283 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=New+Apparel+for+Men%3A17283;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Rain Jackets &amp; Windbreakers:47445 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Rain+Jackets+%26+Windbreakers%3A47445;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Vests:8327 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Vests%3A8327;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Wading Jackets:19862 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Wading+Jackets%3A19862;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women - New to Sale:14044 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women+-+New+to+Sale%3A14044;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 7 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Coats:11983 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Coats%3A11983;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 7 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Fleece:49886 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Fleece%3A49886;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Hunting Gear:46483 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Hunting+Gear%3A46483;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Outerwear from Barbour:15385 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Outerwear+from+Barbour%3A15385;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Tent Sale:6987 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Tent+Sale%3A6987;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 2 ]]>
+</count>
+</facet-value>
+<facet-value>
+<label>
+<![CDATA[ Women&#39;s Vests:11979 ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Women's+Vests%3A11979;sp_cs=UTF-8;sp_staged=1;x1=t4_subcategory
+]]>
+</link>
+<count>
+<![CDATA[ 7 ]]>
+</count>
+</facet-value>
+</facet>
+<dynamic-facets>
+<facet-item>
+<facet-title>
+<![CDATA[ Feature ]]>
+</facet-title>
+<behavior>
+<![CDATA[ dynamic ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<label>
+<![CDATA[ Water Resistant ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Water+Resistant;sp_cs=UTF-8;sp_staged=1;x1=y_feature
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+</facet-item>
+<facet-item>
+<facet-title>
+<![CDATA[ Pattern ]]>
+</facet-title>
+<behavior>
+<![CDATA[ dynamic ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<label>
+<![CDATA[ Plaid ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Plaid;sp_cs=UTF-8;sp_staged=1;x1=y_pattern
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+<label>
+<![CDATA[ Solid ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Solid;sp_cs=UTF-8;sp_staged=1;x1=y_pattern
+]]>
+</link>
+<count>
+<![CDATA[ 5 ]]>
+</count>
+</facet-item>
+<facet-item>
+<facet-title>
+<![CDATA[ Style ]]>
+</facet-title>
+<behavior>
+<![CDATA[ dynamic ]]>
+</behavior>
+<selected>
+<![CDATA[ 0 ]]>
+</selected>
+<label>
+<![CDATA[ Cardigan ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Cardigan;sp_cs=UTF-8;sp_staged=1;x1=y_style
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+<label>
+<![CDATA[ Full Zip ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Full+Zip;sp_cs=UTF-8;sp_staged=1;x1=y_style
+]]>
+</link>
+<count>
+<![CDATA[ 3 ]]>
+</count>
+<label>
+<![CDATA[ Jacket ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Jacket;sp_cs=UTF-8;sp_staged=1;x1=y_style
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+<label>
+<![CDATA[ Quarter Zip ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Quarter+Zip;sp_cs=UTF-8;sp_staged=1;x1=y_style
+]]>
+</link>
+<count>
+<![CDATA[ 1 ]]>
+</count>
+<label>
+<![CDATA[ Vest ]]>
+</label>
+<link>
+<![CDATA[
+?i=1;q=red+vest;q1=Vest;sp_cs=UTF-8;sp_staged=1;x1=y_style
+]]>
+</link>
+<count>
+<![CDATA[ 6 ]]>
+</count>
+</facet-item>
+</dynamic-facets>
+</facets>
+<results>
+<result-set>
+<name>
+<![CDATA[ default ]]>
+</name>
+<result>
+<index>
+<![CDATA[ 1 ]]>
+</index>
+<field name="id">
+<![CDATA[ US2B2Z ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 2B2Z ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+Designed by and for women who like a little layering and love the sporty look...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ NIGHT SKY,NIGHT SKY,NIGHT SKY,NIGHT SKY,NIGHT ... ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthet...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X ...
+]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,,,,,,,,,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvi
+]]>
+<![CDATA[
+s.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2B205XW_sky.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_sky.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_sky.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_sky.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_sky.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_bric.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_bric.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_bric.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_bric.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_bric.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_aub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_aub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_aub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_aub.jpg,http://www.orvis.com/orvis_assets/prodimg/2B205XW_aub.jpg
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/2B205XWsky.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWsky.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWsky.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWsky.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWsky.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWbric.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWbric.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWbric.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWbric.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWbric.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWaub.jpg,http://www.orvis.com/orvis_assets/colortnails/2B205XWaub.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2B205XWaub.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/2B205XWaub.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ N|Y|N|Y|Y|N|N|Y|Y|Y|Y|Y|Y|Y|Y ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Sunderland Solid Quilted Vest x small night sky,Sunderland Solid Quilted Vest...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Sunderland Solid Quilted Vest|Sunderland Solid Quilted Vest|Sunderland Solid ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+194223,194223,194223,194223,194223,194223,194223,194223,194223,194223,194223,...
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member,Member,Member,Member,...
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Sunderland Solid Quilted Vest ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+This solid quilted vest for women is a sporting layer in your cool-weather ...
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/sunderland-quilted-vests/2B2Z
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+94.00,94.00,94.00,94.00,94.00,94.00,94.00,94.00,94.00,94.00,94.00,94.00,94.00...
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 94.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 94.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[
+Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137
+]]>
+</field>
+<field name="t2_group">
+<![CDATA[
+Women's Clothing:11943|New to Sale:14848|Women's Clothing:11943|New to ...
+]]>
+</field>
+<field name="t3_category">
+<![CDATA[
+Jackets & Vests:11982|Women:14850|Jackets & Vests:11982|Women:14850
+]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[
+Women's Vests:11979|Women - New to Sale:14044|Women's Vests:11979|Women - New...
+]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 2 ]]>
+</index>
+<field name="id">
+<![CDATA[ US7P7H ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 7P7H ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+Our updated women's vest design is sewn of a slightly textural rayon/linen ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[
+BLACK,BLACK,BLACK,BLACK,BLACK,LIGHT GARNET,LIGHT GARNET,LIGHT GARNET,LIGHT ...
+]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthet...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X SMALL,SMALL,MEDIUM,LARGE,X LARGE
+]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,,,,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_gar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_gar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_gar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_gar.jpg,http://www.orvis.com/orvis_assets/prodimg/7P7H3VW_gar.jpg
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/7P7H3VWblk.jpg,http://www.orvis.com/orvis_assets/colortnails/7P7H3VWblk.jpg,http://www.orvis.com/orvis_assets/colortnails/7P7H3VWblk.jpg,http://www.orvis.com/orvis_assets/colortnails/7P7H3VWblk.jpg,http://www.orvis.com/orvis_assets/colortnails/7P7H3VWblk
+]]>
+<![CDATA[
+.jpg,http://www.orvis.com/orvis_assets/colortnails/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/colortnails/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/colortnails/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/colortnails/7P7H3VWgar.jpg,http://www.orvis.com/orvis_assets/colortnails/7P7H3VWgar.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/7P7H3VWgar.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/7P7H3VWgar.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ N|N|N|N|N|N|Y|N|N|N ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Soutache-Trimmed Pintuck Vest x small black,Soutache-Trimmed Pintuck Vest ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Soutache-Trimmed Pintuck Vest|Soutache-Trimmed Pintuck Vest|Soutache-Trimmed ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+176416,176416,176416,176416,176416,176416,176416,176416,176416,176416
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member,Member,Member
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Soutache-Trimmed Pintuck Vest ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Our women's vest is an ideal layering piece for any season.
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/soutache-trimmed-pintuck-vest/7P7H
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y,Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+34.00,34.00,34.00,34.00,34.00,34.00,34.00,34.00,34.00,34.00
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 34.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 34.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[ Sale Outlet:1137|Sale Outlet:1137 ]]>
+</field>
+<field name="t2_group">
+<![CDATA[ Women's Clothing:11943|Women's Clothing:11943 ]]>
+</field>
+<field name="t3_category">
+<![CDATA[ Jackets & Vests:11982|Jackets & Vests:11982 ]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[ Women's Vests:11979|Women's Vests:11979 ]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 3 ]]>
+</index>
+<field name="id">
+<![CDATA[ US11ZN ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 11ZN ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+Our updated microfiber paddock vest for women is a comfortable choice for a ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[
+BLACK,BLACK,BLACK,BLACK,BLACK,LODEN,LODEN,LODEN,LODEN,LODEN,VINEYARD ...
+]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthet...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X ...
+]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,,,,,,,,,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_lod.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_lod.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_lod.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_lod.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_lod.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_red.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_red.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_red.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_red.jpg,http://www.orvis.com/orvis_assets/prodimg/11ZN4PWW_red.jpg
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWblk.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWblk.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWblk.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWblk.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWblk.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWlod.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWlod.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWlod.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWlod.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWlod.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWred.jpg,http://www.orvis.com/orvis_assets/colortnails/11ZN4PWWred.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/11ZN4PWWred.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/11ZN4PWWred.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|N|N|N|N|N|N|Y|N|N|Y|N|Y|N|N ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Regular x small black,Regular small black,Regular medium black,Regular large ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regular|Regul...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+188092,188092,188092,188092,188092,188092,188092,188092,188092,188092,188092,...
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member,Member,Member,Member,...
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Microfiber Paddock Vest ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Our microfiber vest for women is simply styled for classic versatility and ...
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/microfiber-paddock-vest/11ZN
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+99.00,99.00,99.00,99.00,99.00,99.00,99.00,99.00,99.00,99.00,99.00,99.00,99.00...
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 99.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 99.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[
+Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137
+]]>
+</field>
+<field name="t2_group">
+<![CDATA[
+The Orvis Tent Sale:1829|Women's Clothing:11943|The Orvis Tent ...
+]]>
+</field>
+<field name="t3_category">
+<![CDATA[
+Women:5726|Jackets & Vests:11982|Women:5726|Jackets & Vests:11982
+]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[
+Women's Tent Sale:6987|Women's Vests:11979|Women's Tent Sale:6987|Women's ...
+]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 4 ]]>
+</index>
+<field name="id">
+<![CDATA[ US2B95 ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 2B95 ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+The DownTek 700 fill power down in this women's vest maintains loft and ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[
+BLACK,BLACK,BLACK,BLACK,BLACK,BEET,BEET,BEET,BEET,BEET
+]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthet...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X SMALL,SMALL,MEDIUM,LARGE,X LARGE
+]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,,,,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2B955W_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955W_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955W_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955W_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955W_blk.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955W_beet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955W_beet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955W_beet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955W_beet.jpg,http://www.orvis.com/orvis_assets/prodimg/2B955W_beet.jpg
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/2B955Wblk.jpg,http://www.orvis.com/orvis_assets/colortnails/2B955Wblk.jpg,http://www.orvis.com/orvis_assets/colortnails/2B955Wblk.jpg,http://www.orvis.com/orvis_assets/colortnails/2B955Wblk.jpg,http://www.orvis.com/orvis_assets/colortnails/2B955Wblk.jpg,http://www.orvis.com/orvis_assets/colortnails/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/colortnails/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/colortnails/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/colortnails/2B955Wbeet.jpg,http://www.orvis.com/orvis_assets/colortnails/2B955Wbeet.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2B955Wbeet.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/2B955Wbeet.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|Y|Y|Y|Y|Y|Y|Y|Y|Y ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Women's Targhee Down Vest x small black,Women's Targhee Down Vest small ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Women's Targhee Down Vest|Women's Targhee Down Vest|Women's Targhee Down ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+194676,194676,194676,194676,194676,194676,194676,194676,194676,194676
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member,Member,Member
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[ <div id="vidthumb"> <a ... ]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Women's Targhee Down Vest ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Reach for this women's ultralight and feminine down vest when the days grow ...
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/women-s-targhee-down-vest/2B95
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y,Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+104.00,104.00,104.00,104.00,104.00,104.00,104.00,104.00,104.00,104.00
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 104.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 104.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[
+Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137
+]]>
+</field>
+<field name="t2_group">
+<![CDATA[
+Women's Clothing:11943|New to Sale:14848|Women's Clothing:11943|New to ...
+]]>
+</field>
+<field name="t3_category">
+<![CDATA[
+Jackets & Vests:11982|Women:14850|Jackets & Vests:11982|Women:14850
+]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[
+Women's Vests:11979|Women - New to Sale:14044|Women's Vests:11979|Women - New...
+]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 5 ]]>
+</index>
+<field name="id">
+<![CDATA[ US1L25 ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 1L25 ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+A sleek zip-front quilted vest sports a stretchy rib-knit back making our ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ DEEP NAVY,DEEP NAVY,DEEP NAVY,DEEP NAVY,DEEP ... ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthet...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X SMALL,SMALL,MEDIUM,LARGE,X LARGE
+]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,,,,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_san.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_san.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_san.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_san.jpg,http://www.orvis.com/orvis_assets/prodimg/1L25M4SW_san.jpg
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/1L25M4SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/1L25M4SWsan.jpg,http://www.orvis.com/orvis_assets/colortnails/1L25M4SWsan.jpg,http://www.orvis.com/orvis_assets/colortnails/1L25M4SWsan.jpg,http://www.orvis.com/orvis_assets/colortnails/1L25M4SWsan.jpg,http://www.orvis.com/orvis_assets/colortnails/1L25M4SWsan.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/1L25M4SWnvy.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/1L25M4SWnvy.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ N|N|N|N|N|Y|N|N|N|N ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Quilted Microfiber Zip-Front Vest x small deep navy,Quilted Microfiber ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Quilted Microfiber Zip-Front Vest|Quilted Microfiber Zip-Front Vest|Quilted ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+183391,183391,183391,183391,183391,183391,183391,183391,183391,183391
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member,Member,Member
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Quilted Microfiber Zip-Front Vest ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Enjoy the versatile design of our quilted zip-front vest for women.
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/quilted-microfiber-zip-front-vest/1L25
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y,Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+59.00,59.00,59.00,59.00,59.00,59.00,59.00,59.00,59.00,59.00
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 59.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 59.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[
+Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137
+]]>
+</field>
+<field name="t2_group">
+<![CDATA[
+Women's Clothing:11943|Further Reductions:27835|Women's ...
+]]>
+</field>
+<field name="t3_category">
+<![CDATA[
+Jackets & Vests:11982|Women:27836|Jackets & Vests:11982|Women:27836
+]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[
+Women's Vests:11979|Jackets & Vests:45282|Women's Vests:11979|Jackets & ...
+]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 6 ]]>
+</index>
+<field name="id">
+<![CDATA[ US2CJE ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 2CJE ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+Casual layering done right, our sweater-fleece zip-front vest is an easy ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[
+CRIMSON,CRIMSON,CRIMSON,CRIMSON,CRIMSON,OATMEAL,OATMEAL,OATMEAL,OATMEAL,OATME...
+]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthet...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X ...
+]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,,,,,,,,,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvi
+]]>
+<![CDATA[
+s.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_cri.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_cri.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_cri.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_cri.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_cri.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_oat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_oat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_oat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_oat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_oat.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_bry.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_bry.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_bry.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_bry.jpg,http://www.orvis.com/orvis_assets/prodimg/2CJE5HM_bry.jpg
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/2CJE5HMcri.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMcri.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMcri.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMcri.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMcri.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMoat.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMbry.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMbry.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMbry.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMbry.jpg,http://www.orvis.com/orvis_assets/colortnails/2CJE5HMbry.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2CJE5HMoat.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/2CJE5HMoat.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|Y|Y|Y|Y|Y|N|Y|N|N|Y|Y|Y|N|N ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Marled Sweater-Fleece Zip-Front Vest x small crimson,Marled Sweater-Fleece ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Marled Sweater-Fleece Zip-Front Vest|Marled Sweater-Fleece Zip-Front ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+194682,194682,194682,194682,194682,194682,194682,194682,194682,194682,194682,...
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member,Member,Member,Member,...
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Women's Marled Sweater-Fleece Zip-Front Vest ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Versatile and nicely shaped, this women's zip-front vest is an ideal casual ...
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/marled-sweater-fleece-zip-front-vest/2CJE
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+49.00,49.00,49.00,49.00,49.00,49.00,49.00,49.00,49.00,49.00,49.00,49.00,49.00...
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 49.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 49.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[
+Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137
+]]>
+</field>
+<field name="t2_group">
+<![CDATA[
+Women's Clothing:11943|New to Sale:14848|Women's Clothing:11943|New to ...
+]]>
+</field>
+<field name="t3_category">
+<![CDATA[
+Jackets & Vests:11982|Women:14850|Jackets & Vests:11982|Women:14850
+]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[
+Women's Vests:11979|Women - New to Sale:14044|Women's Vests:11979|Women - New...
+]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 7 ]]>
+</index>
+<field name="id">
+<![CDATA[ US13B7 ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 13B7 ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+Keep this quilted vest for women by the door because you'll reach for it ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ CAMEL,CAMEL,MALBEC,MALBEC,BLACK ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[ Synthetic,Synthetic,Synthetic,Synthetic,Synthetic ]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[ MEDIUM,LARGE,MEDIUM,LARGE,MEDIUM ]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/13B74XWmalb.jpg,http://www.orvis.com/orvis_assets/prodimg/13B74XWmalb.jpg,http://www.orvis.com/orvis_assets/prodimg/13B74XWmalb.jpg,http://www.orvis.com/orvis_assets/prodimg/13B74XWmalb.jpg,http://www.orvis.com/orvis_assets/prodimg/13B74XWmalb.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/13B74XW_caml.jpg,http://www.orvis.com/orvis_assets/prodimg/13B74XW_caml.jpg,http://www.orvis.com/orvis_assets/prodimg/13B74XW_malb.jpg,http://www.orvis.com/orvis_assets/prodimg/13B74XW_malb.jpg,
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/13B74XWcaml.jpg,http://www.orvis.com/orvis_assets/colortnails/13B74XWcaml.jpg,http://www.orvis.com/orvis_assets/colortnails/13B74XWmalb.jpg,http://www.orvis.com/orvis_assets/colortnails/13B74XWmalb.jpg,
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/13B74XWmalb.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/13B74XWmalb.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ N|N|N|N|Y ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Sweater-Trimmed Quilted Microfiber Vest medium camel,Sweater-Trimmed Quilted ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Sweater-Trimmed Quilted Microfiber Vest|Sweater-Trimmed Quilted Microfiber ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[ 187077,187077,187077,187077,187077 ]]>
+</field>
+<field name="member_type">
+<![CDATA[ Member,Member,Member,Member,Member ]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Sweater-Trimmed Quilted Microfiber Vest ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+A quilted vest for women provides perfect comfort during transitional weather.
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/sweater-trimmed-quilted-microfiber-vest/13B7
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[ 59.00,59.00,59.00,59.00,59.00 ]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 59.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 59.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[ Sale Outlet:1137|Sale Outlet:1137 ]]>
+</field>
+<field name="t2_group">
+<![CDATA[ Women's Clothing:11943|Women's Clothing:11943 ]]>
+</field>
+<field name="t3_category">
+<![CDATA[ Jackets & Vests:11982|Jackets & Vests:11982 ]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[ Women's Vests:11979|Women's Vests:11979 ]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 8 ]]>
+</index>
+<field name="id">
+<![CDATA[ US14NC ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 14NC ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+An iconic quilted fleece-lined vest with a refined equestrian vibe. Made of ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[
+NAVY,NAVY,NAVY,NAVY,NAVY,NAVY,NAVY,ROSEWOOD,ROSEWOOD,ROSEWOOD,ROSEWOOD,ROSEWO...
+]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ VN,VN,VN,VN,VN,VN,VN,VN,VN,VN,VN,VN,VN,VN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthet...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[ 4,6,8,10,12,14,16,4,6,8,10,12,14,16 ]]>
+</field>
+<field name="f_type">
+<![CDATA[
+Vest,Vest,Vest,Vest,Vest,Vest,Vest,Vest,Vest,Vest,Vest,Vest,Vest,Vest
+]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvi
+]]>
+<![CDATA[
+s.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/14NC4W_navy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_navy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_navy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_navy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_navy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_navy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_navy.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_rswd.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_rswd.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_rswd.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_rswd.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_rswd.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_rswd.jpg,http://www.orvis.com/orvis_assets/prodimg/14NC4W_rswd.jpg
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wnavy.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wrswd.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wrswd.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wrswd.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wrswd.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wrswd.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wrswd.jpg,http://www.orvis.com/orvis_assets/colortnails/14NC4Wrswd.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/14NC4Wnavy.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/14NC4Wnavy.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|Y|Y|Y|Y|Y|O|Y|Y|Y|Y|Y|O|Y ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Barbour® Women's Cavalry Gilet 4 navy,Barbour® Women's Cavalry Gilet 6 ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Barbour® Women's Cavalry Gilet|Barbour® Women's Cavalry Gilet|Barbour® ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+187444,187444,187444,187444,187444,187444,187444,187444,187444,187444,187444,...
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member,Member,Member,Member,...
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[ ]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Barbour&#174; Women's Cavalry Gilet ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+You'll love the classic, flattering silhouette of this women's quilted ...
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/barbour-women-s-cavalry-gilet/14NC
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ N,N,N,N,N,N,N,N,N,N,N,N,N,N ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+179.00,179.00,179.00,179.00,179.00,179.00,179.00,179.00,179.00,179.00,179.00,...
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 179.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 179.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[
+Women's Clothing:832|Women's Clothing:832|Women's Clothing:832|Women's ...
+]]>
+</field>
+<field name="t2_group">
+<![CDATA[
+Outerwear:862|Barbour of England:17760|Outerwear:862|Barbour of England:17760
+]]>
+</field>
+<field name="t3_category">
+<![CDATA[
+Vests:8328|Women's Outerwear:17767|Vests:8328|Women's Outerwear:17767
+]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[
+Vests:8327|Women's Outerwear from Barbour:15385|Vests:8327|Women's Outerwear ...
+]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 9 ]]>
+</index>
+<field name="id">
+<![CDATA[ US2FPZ ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 2FPZ ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+A hearty men's red field coat effectively camouflaged as a refined, urban ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ ,,, ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ US,US,US,US ]]>
+</field>
+<field name="f_material">
+<![CDATA[ ,,, ]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[ MEDIUM,LARGE,X LARGE,XX LARGE ]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2FPZL5HK.jpg,http://www.orvis.com/orvis_assets/prodimg/2FPZL5HK.jpg,http://www.orvis.com/orvis_assets/prodimg/2FPZL5HK.jpg,http://www.orvis.com/orvis_assets/prodimg/2FPZL5HK.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[ ,,, ]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[ ,,, ]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2FPZL5HK.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/2FPZL5HK.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|Y|N|Y ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Red Field Coat medium bright red,Red Field Coat large bright red,Red Field ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Red Field Coat|Red Field Coat|Red Field Coat|Red Field Coat
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[ 194932,194932,194932,194932 ]]>
+</field>
+<field name="member_type">
+<![CDATA[ Member,Member,Member,Member ]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Red Field Coat ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+This red wool version of the men's field coat boasts smart styling with urban...
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[ http://www.orvis.com/p/red-field-coat/2FPZ ]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[ 499.00,499.00,499.00,499.00 ]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 499.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 499.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[ Sale Outlet:1137|Sale Outlet:1137 ]]>
+</field>
+<field name="t2_group">
+<![CDATA[ Men's Clothing:11942|Men's Clothing:11942 ]]>
+</field>
+<field name="t3_category">
+<![CDATA[ Jackets & Vests:11954|Jackets & Vests:11954 ]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[ Men's Jackets:11955|Men's Jackets:11955 ]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 10 ]]>
+</index>
+<field name="id">
+<![CDATA[ US17Z5s ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 17Z5s ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+Moto-inspired and thoughtfully designed, this neatly shaped quilted zip-front...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ NAVY,NAVY,NAVY,NAVY,NAVY,RED,RED,RED,RED,RED ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthetic,Synthet...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+X SMALL,SMALL,MEDIUM,LARGE,X LARGE,X SMALL,SMALL,MEDIUM,LARGE,X LARGE
+]]>
+</field>
+<field name="f_type">
+<![CDATA[
+Casual Jackets,Casual Jackets,Casual Jackets,Casual Jackets,Casual ...
+]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/17Z55SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SW_nvy.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SW_red.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SW_red.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SW_red.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SW_red.jpg,http://www.orvis.com/orvis_assets/prodimg/17Z55SW_red.jpg
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/17Z55SWnvy.jpg,http://www.orvis.com/orvis_assets/colortnails/17Z55SWred.jpg,http://www.orvis.com/orvis_assets/colortnails/17Z55SWred.jpg,http://www.orvis.com/orvis_assets/colortnails/17Z55SWred.jpg,http://www.orvis.com/orvis_assets/colortnails/17Z55SWred.jpg,http://www.orvis.com/orvis_assets/colortnails/17Z55SWred.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/17Z55SWnvy.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/17Z55SWnvy.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ N|N|N|Y|Y|N|N|N|N|N ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Quilted Zip-Front Microfiber Jacket x small navy,Quilted Zip-Front Microfiber...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Quilted Zip-Front Microfiber Jacket|Quilted Zip-Front Microfiber ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+192750,192750,192750,192750,192750,192750,192750,192750,192750,192750
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member,Member,Member
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Quilted Zip-Front Microfiber Jacket ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Warm up in the sophisticated design of our quilted microfiber jacket.
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/quilted-zip-front-microfiber-jacket/17Z5s
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y,Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+69.00,69.00,69.00,69.00,69.00,69.00,69.00,69.00,69.00,69.00
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 69.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 69.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[
+Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137|Sale Outlet:1137
+]]>
+</field>
+<field name="t2_group">
+<![CDATA[
+Women's Clothing:11943|Women's Clothing:11943|Women's Clothing:11943|Women's ...
+]]>
+</field>
+<field name="t3_category">
+<![CDATA[
+Jackets & Vests:11982|Jackets & Vests:11982|Jackets & Vests:11982|Jackets & ...
+]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[
+Jackets & Blazers:11966|Women's Coats:11983|Jackets & Blazers:11966|Women's ...
+]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 11 ]]>
+</index>
+<field name="id">
+<![CDATA[ US6R9T ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 6R9T ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+Soft and timeless boiled wool is shaped with overlapping seams for a unique ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ RED,RED,RED,RED,BLACK,BLACK,BLACK,BLACK ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Wool/Wool Blend,Wool/Wool Blend,Wool/Wool Blend,Wool/Wool Blend,Wool/Wool ...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+SMALL,MEDIUM,LARGE,X LARGE,SMALL,MEDIUM,LARGE,X LARGE
+]]>
+</field>
+<field name="f_type">
+<![CDATA[
+Dressy,Dressy,Dressy,Dressy,Dressy,Dressy,Dressy,Dressy
+]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/6R9TM2HM.jpg,http://www.orvis.com/orvis_assets/prodimg/6R9TM2HM.jpg,http://www.orvis.com/orvis_assets/prodimg/6R9TM2HM.jpg,http://www.orvis.com/orvis_assets/prodimg/6R9TM2HM.jpg,http://www.orvis.com/orvis_assets/prodimg/6R9TM2HM.jpg,http://www.orvis.com/orvis_assets/prodimg/6R9TM2HM.jpg,http://www.orvis.com/orvis_assets/prodimg/6R9TM2HM.jpg,http://www.orvis.com/orvis_assets/prodimg/6R9TM2HM.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[ ,,,,,,, ]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[ ,,,,,,, ]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/6R9TM2HM.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/6R9TM2HM.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|N|N|N|N|N|N|N ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Boiled Wool Three-Button Jacket small red,Boiled Wool Three-Button Jacket ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Boiled Wool Three-Button Jacket|Boiled Wool Three-Button Jacket|Boiled Wool ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+172419,172419,172419,172419,172419,172419,172419,172419
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Boiled Wool Three-Button Jacket ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Embrace seasonal style in our wool jacket for women.
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/boiled-wool-three-button-jacket/6R9T
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[ 99.00,99.00,99.00,99.00,99.00,99.00,99.00,99.00 ]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 99.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 99.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[ Sale Outlet:1137|Sale Outlet:1137 ]]>
+</field>
+<field name="t2_group">
+<![CDATA[ Women's Clothing:11943|Women's Clothing:11943 ]]>
+</field>
+<field name="t3_category">
+<![CDATA[ Jackets & Vests:11982|Jackets & Vests:11982 ]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[ Jackets & Blazers:11966|Jackets & Blazers:11966 ]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 12 ]]>
+</index>
+<field name="id">
+<![CDATA[ US5T61 ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 5T61 ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+A glorious floral pattern in vibrant shades of red, gold, green, and blue is ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ IN,IN,IN,IN,IN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Cotton/Cotton Blend,Cotton/Cotton Blend,Cotton/Cotton Blend,Cotton/Cotton ...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[ X SMALL,SMALL,MEDIUM,LARGE,X LARGE ]]>
+</field>
+<field name="f_type">
+<![CDATA[
+Casual Jackets,Casual Jackets,Casual Jackets,Casual Jackets,Casual Jackets
+]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/5T61RL5VW.jpg,http://www.orvis.com/orvis_assets/prodimg/5T61RL5VW.jpg,http://www.orvis.com/orvis_assets/prodimg/5T61RL5VW.jpg,http://www.orvis.com/orvis_assets/prodimg/5T61RL5VW.jpg,http://www.orvis.com/orvis_assets/prodimg/5T61RL5VW.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/5T61RL5VW.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/5T61RL5VW.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|N|N|N|N ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Block-Printed Stand-Collar Jacket x small red/multi,Block-Printed ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Block-Printed Stand-Collar Jacket|Block-Printed Stand-Collar ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[ 191780,191780,191780,191780,191780 ]]>
+</field>
+<field name="member_type">
+<![CDATA[ Member,Member,Member,Member,Member ]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Block-Printed Stand-Collar Jacket ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+This attractive, stand-collar jacket is sure to get noticed.
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/block-printed-stand-collar-jacket/5T61
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[ 39.00,39.00,39.00,39.00,39.00 ]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 39.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 39.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[ Sale Outlet:1137|Sale Outlet:1137 ]]>
+</field>
+<field name="t2_group">
+<![CDATA[ Women's Clothing:11943|Women's Clothing:11943 ]]>
+</field>
+<field name="t3_category">
+<![CDATA[ Jackets & Vests:11982|Jackets & Vests:11982 ]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[ Jackets & Blazers:11966|Jackets & Blazers:11966 ]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 13 ]]>
+</index>
+<field name="id">
+<![CDATA[ US19N9s ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 19N9s ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+This neatly shaped and fitted channel-quilted reversible moto jacket reverses...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ IN,IN,IN,IN,IN ]]>
+</field>
+<field name="f_material">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[ X SMALL,SMALL,MEDIUM,LARGE,X LARGE ]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/19N9L5VE.jpg,http://www.orvis.com/orvis_assets/prodimg/19N9L5VE.jpg,http://www.orvis.com/orvis_assets/prodimg/19N9L5VE.jpg,http://www.orvis.com/orvis_assets/prodimg/19N9L5VE.jpg,http://www.orvis.com/orvis_assets/prodimg/19N9L5VE.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/19N9L5VE.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/19N9L5VE.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ N|N|Y|Y|Y ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Channel-Quilted Reversible Moto Jacket x small red,Channel-Quilted Reversible...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Channel-Quilted Reversible Moto Jacket|Channel-Quilted Reversible Moto ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[ 199114,199114,199114,199114,199114 ]]>
+</field>
+<field name="member_type">
+<![CDATA[ Member,Member,Member,Member,Member ]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Channel-Quilted Reversible Moto Jacket ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Our channel-quilted reversible moto jacket offers two classic styles in one.
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/channel-quilted-reversible-moto-jacket/19N9s
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[ 109.00,109.00,109.00,109.00,109.00 ]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 109.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 109.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[ Sale Outlet:1137|Sale Outlet:1137 ]]>
+</field>
+<field name="t2_group">
+<![CDATA[ Women's Clothing:11943|Women's Clothing:11943 ]]>
+</field>
+<field name="t3_category">
+<![CDATA[ Jackets & Vests:11982|Jackets & Vests:11982 ]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[ Jackets & Blazers:11966|Jackets & Blazers:11966 ]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 14 ]]>
+</index>
+<field name="id">
+<![CDATA[ US8L5Y ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 8L5Y ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+Beat the season's big chills with our festive zip-front fleece jacket. ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Fleece &amp; Microfiber,Fleece &amp; Microfiber,Fleece &amp; ...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[ X SMALL,SMALL,MEDIUM,LARGE,X LARGE ]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/8L5YM3HM.jpg,http://www.orvis.com/orvis_assets/prodimg/8L5YM3HM.jpg,http://www.orvis.com/orvis_assets/prodimg/8L5YM3HM.jpg,http://www.orvis.com/orvis_assets/prodimg/8L5YM3HM.jpg,http://www.orvis.com/orvis_assets/prodimg/8L5YM3HM.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[ ,,,, ]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/8L5YM3HM.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/8L5YM3HM.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|N|N|N|N ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Snowflake-Pattern Fleece Zip-Front Jacket x small red/multi,Snowflake-Pattern...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Snowflake-Pattern Fleece Zip-Front Jacket|Snowflake-Pattern Fleece Zip-Front ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[ 181340,181340,181340,181340,181340 ]]>
+</field>
+<field name="member_type">
+<![CDATA[ Member,Member,Member,Member,Member ]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[
+<div class="pg_rc_box" id="promo_box"> <span class="promo_redhead"> Save an ...
+]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Snowflake-Pattern Fleece Zip-Front Jacket ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Our zip-front fleece snowflake jacket makes a festive addition to any wardrobe.
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/snowflake-pattern-fleece-zip-front-jacket/8L5Y
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[ 74.00,74.00,74.00,74.00,74.00 ]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 74.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 74.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[ Sale Outlet:1137|Sale Outlet:1137 ]]>
+</field>
+<field name="t2_group">
+<![CDATA[ Women's Clothing:11943|Women's Clothing:11943 ]]>
+</field>
+<field name="t3_category">
+<![CDATA[ Jackets & Vests:11982|Jackets & Vests:11982 ]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[ Jackets & Blazers:11966|Jackets & Blazers:11966 ]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 15 ]]>
+</index>
+<field name="id">
+<![CDATA[ US4H05 ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 4H05 ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+Its forebears hang in a thousand closets and have seen lifetimes in the ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[
+OLIVE,OLIVE,OLIVE,OLIVE,OLIVE,DARK KHAKI,DARK KHAKI,DARK KHAKI,DARK ...
+]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[
+Cotton/Cotton Blend,Cotton/Cotton Blend,Cotton/Cotton Blend,Cotton/Cotton ...
+]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+SMALL,MEDIUM,LARGE,X LARGE,XX LARGE,SMALL,MEDIUM,LARGE,X LARGE,XX LARGE
+]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,,,,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/4H05FH5_olive.gif,http://www.orvis.com/orvis_assets/prodimg/4H05FH5_olive.gif,http://www.orvis.com/orvis_assets/prodimg/4H05FH5_olive.gif,http://www.orvis.com/orvis_assets/prodimg/4H05FH5_olive.gif,http://www.orvis.com/orvis_assets/prodimg/4H05FH5_olive.gif,http://www.orvis.com/orvis_assets/prodimg/4H05FH5_drkkhk.gif,http://www.orvis.com/orvis_assets/prodimg/4H05FH5_drkkhk.gif,http://www.orvis.com/orvis_assets/prodimg/4H05FH5_drkkhk.gif,http://www.orvis.com/orvis_assets/prodimg/4H05FH5_drkkhk.gif,http://www.orvis.com/orvis_assets/prodimg/4H05FH5_drkkhk.gif
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/4H05FH5olive.jpg,http://www.orvis.com/orvis_assets/colortnails/4H05FH5olive.jpg,http://www.orvis.com/orvis_assets/colortnails/4H05FH5olive.jpg,http://www.orvis.com/orvis_assets/colortnails/4H05FH5olive.jpg,http://www.orvis.com/orvis_assets/colortnails/4H05FH5olive.jpg,http://www.orvis.com/orvis_assets/colortnails/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/colortnails/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/colortnails/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/colortnails/4H05FH5drkkhk.jpg,http://www.orvis.com/orvis_assets/colortnails/4H05FH5drkkhk.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/4H05FH5drkkhk.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/4H05FH5drkkhk.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|Y|Y|Y|O|Y|Y|Y|Y|Y ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Orvis Heritage Field Coat small olive,Orvis Heritage Field Coat medium ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Orvis Heritage Field Coat|Orvis Heritage Field Coat|Orvis Heritage Field ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+179473,179473,179473,179473,179473,179473,179473,179473,179473,179473
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member,Member,Member
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[ ]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Orvis Heritage Field Coat ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+Our men's upland field coat keeps you well protected from the elements.
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/orvis-heritage-field-coat/4H05
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ Y,Y,Y,Y,Y,Y,Y,Y,Y,Y ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+198.00,198.00,198.00,198.00,198.00,198.00,198.00,198.00,198.00,198.00
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 198.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 198.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[
+Men's Clothing:885|Men's Clothing:885|Men's Clothing:885|Men's ...
+]]>
+</field>
+<field name="t2_group">
+<![CDATA[
+Jackets & Vests:920|Field Collection:53451|Jackets & Vests:920|Field ...
+]]>
+</field>
+<field name="t3_category">
+<![CDATA[
+Jackets:5355|Field Collection:53452|Jackets:5355|Field Collection:53452|Men's...
+]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[
+Men's Jackets:6373|Field Collection for Men:53453|Men's Jackets:6373|Field ...
+]]>
+</field>
+</result>
+<result>
+<index>
+<![CDATA[ 16 ]]>
+</index>
+<field name="id">
+<![CDATA[ US2BL2 ]]>
+</field>
+<field name="pf_id">
+<![CDATA[ 2BL2 ]]>
+</field>
+<field name="pf_description">
+<![CDATA[
+The Outdoor Research men's nylon jacket is 100% waterproof, breathable and ...
+]]>
+</field>
+<field name="f_color">
+<![CDATA[ RED,RED,RED,RED,PEWTER,PEWTER,PEWTER,PEWTER ]]>
+</field>
+<field name="f_country_of_origin">
+<![CDATA[ CN,CN,CN,CN,CN,CN,CN,CN ]]>
+</field>
+<field name="f_material">
+<![CDATA[ ,,,,,,, ]]>
+</field>
+<field name="f_rating">
+<![CDATA[ .0000 ]]>
+</field>
+<field name="f_size">
+<![CDATA[
+MEDIUM,LARGE,X LARGE,XX LARGE,MEDIUM,LARGE,X LARGE,XX LARGE
+]]>
+</field>
+<field name="f_type">
+<![CDATA[ ,,,,,,, ]]>
+</field>
+<field name="img_colorfamily_swatch">
+<![CDATA[ ]]>
+</field>
+<field name="img_colorized_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VBpew.jpg
+]]>
+</field>
+<field name="img_colorized_swatch">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2BL26VB_red.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VB_red.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VB_red.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VB_red.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VB_pew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VB_pew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VB_pew.jpg,http://www.orvis.com/orvis_assets/prodimg/2BL26VB_pew.jpg
+]]>
+</field>
+<field name="img_colorized_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/colortnails/2BL26VBred.jpg,http://www.orvis.com/orvis_assets/colortnails/2BL26VBred.jpg,http://www.orvis.com/orvis_assets/colortnails/2BL26VBred.jpg,http://www.orvis.com/orvis_assets/colortnails/2BL26VBred.jpg,http://www.orvis.com/orvis_assets/colortnails/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/colortnails/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/colortnails/2BL26VBpew.jpg,http://www.orvis.com/orvis_assets/colortnails/2BL26VBpew.jpg
+]]>
+</field>
+<field name="img_pf_default_image">
+<![CDATA[
+http://www.orvis.com/orvis_assets/prodimg/2BL26VBpew.jpg
+]]>
+</field>
+<field name="img_pf_default_tnail">
+<![CDATA[
+http://www.orvis.com/orvis_assets/thumbnails/2BL26VBpew.jpg
+]]>
+</field>
+<field name="item_avail_status">
+<![CDATA[ Y|Y|Y|Y|Y|Y|Y|Y ]]>
+</field>
+<field name="item_description">
+<![CDATA[
+Outdoor Research Helium II Jacket medium red,Outdoor Research Helium II ...
+]]>
+</field>
+<field name="member_name">
+<![CDATA[
+Outdoor Research Helium II Jacket|Outdoor Research Helium II Jacket|Outdoor ...
+]]>
+</field>
+<field name="member_prodgroupid">
+<![CDATA[
+198165,198165,198165,198165,198165,198165,198165,198165
+]]>
+</field>
+<field name="member_type">
+<![CDATA[
+Member,Member,Member,Member,Member,Member,Member,Member
+]]>
+</field>
+<field name="pf_marketing_message">
+<![CDATA[ ]]>
+</field>
+<field name="pf_name">
+<![CDATA[ Outdoor Research Helium II Jacket ]]>
+</field>
+<field name="pf_subhead">
+<![CDATA[
+This men's nylon jacket by Outdoor Research is 100% waterproof, crushable, ...
+]]>
+</field>
+<field name="pf_url">
+<![CDATA[
+http://www.orvis.com/p/outdoor-research-helium-ii-jacket/2BL2
+]]>
+</field>
+<field name="pr_item_sale_flag">
+<![CDATA[ N,N,N,N,N,N,N,N ]]>
+</field>
+<field name="pr_sliding_promo_end">
+<![CDATA[
+1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:00,1900-01-01T00:00:...
+]]>
+</field>
+<field name="pr_sliding_promo_p_off">
+<![CDATA[ ]]>
+</field>
+<field name="pr_sliding_promo_start">
+<![CDATA[ ]]>
+</field>
+<field name="price_item_current">
+<![CDATA[
+169.00,169.00,169.00,169.00,169.00,169.00,169.00,169.00
+]]>
+</field>
+<field name="price_pf_max_current">
+<![CDATA[ 169.00 ]]>
+</field>
+<field name="price_pf_min_current">
+<![CDATA[ 169.00 ]]>
+</field>
+<field name="t1_directory">
+<![CDATA[
+Fly Fishing:758|Men's Clothing:885|Men's Clothing:885|Men's ...
+]]>
+</field>
+<field name="t2_group">
+<![CDATA[
+Waders & Wading Gear:45361|Jackets & Vests:920|Jackets & Vests:920|New for ...
+]]>
+</field>
+<field name="t3_category">
+<![CDATA[
+Wading Jackets:19861|Jackets:5355|Rain Jackets & ...
+]]>
+</field>
+<field name="t4_subcategory">
+<![CDATA[
+Wading Jackets:19862|Men's Jackets:6373|Rain Jackets & Windbreakers:47445|New...
+]]>
+</field>
+</result>
+</result-set>
+</results>
+<search-form>
+<include-tnt-mbox>1</include-tnt-mbox>
+<autocomplete>
+<enabled>1</enabled>
+<css>
+<![CDATA[
+<link rel="stylesheet" type="text/css" href="//content.atomz.com/sp10050e85/stage/autocomplete_styles.css?sp_js_param=2" />
+]]>
+</css>
+<form-content>
+<![CDATA[
+<div id="autocomplete"></div> <input type="hidden" name="sp_staged" id="sp_staged" value="1" />
+]]>
+</form-content>
+<javascript>
+<![CDATA[
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/utilities/utilities.js"></script> <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/datasource/datasource-min.js"></script> <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/autocomplete/autocomplete-min.js"></script> <script type="text/javascript" src="//content.atomz.com/sp10050e85/stage/autocomplete_data.js?sp_js_param=3"></script>
+]]>
+</javascript>
+</autocomplete>
+</search-form>
+</orvis-results>
